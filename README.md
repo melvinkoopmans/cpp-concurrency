@@ -1,2 +1,3 @@
-# cpp-concurrency
-Project to learn writing multithreaded application in C++
+# C++ Concurrency
+
+The aim of this project is to learn how to write multithreaded applications in C++.
